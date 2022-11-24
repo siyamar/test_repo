@@ -1,1 +1,4 @@
-Hello vai.
+1. git add .
+2. commit -m "github process"
+3. git pull
+4. git push
